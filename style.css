@@ -1,0 +1,64 @@
+a{
+    color: white; 
+    font-weight: bold;
+    text-align: center;
+}
+.bgColor{
+    background: rgb(48, 48, 48);
+}
+.gray{
+    background: gray;
+
+}
+.darkGray{
+
+    background: rgb(71, 71, 71);
+}
+
+.darkestGray{
+    background: rgb(27, 27, 27);
+}
+.lightBlue{
+    background:#bae7ec;
+
+}
+
+/*Nav Bar Section*/
+.navbar{
+
+    height: 100px;
+    padding: 4%;
+}
+
+.navbar-brand{
+    margin-left:9%;
+    font-size: 2.25rem;
+    font-family: 'Francois One', sans-serif;
+}
+
+.googleFont{
+    font-family: 'Francois One', sans-serif;
+}
+
+
+.nav-link {
+    margin-left:150px; 
+}
+
+
+.col{
+   min-height:20px; 
+}
+
+.coolColor{
+    background-image: linear-gradient(#af0c09 ,black);
+}
+
+
+#linkedin{
+    width:100%;
+}
+
+#badge-btn{
+    padding: 5px;
+}
