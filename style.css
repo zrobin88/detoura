@@ -6,6 +6,9 @@ a{
 .bgColor{
     background: rgb(48, 48, 48);
 }
+.blackColor{
+    background: black
+}
 .gray{
     background: gray;
 
@@ -37,7 +40,7 @@ a{
 }
 
 .googleFont{
-    font-family: 'Francois One', sans-serif;
+    font-family: 'Staatliches', cursive;
 }
 
 
