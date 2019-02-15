@@ -65,3 +65,10 @@ a{
 #badge-btn{
     padding: 5px;
 }
+
+.img-fluid{
+    height: auto; 
+}
+.navbar{
+    height: 18%; 
+}
